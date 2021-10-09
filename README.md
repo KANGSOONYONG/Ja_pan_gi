@@ -1,4 +1,4 @@
-# Japangi
+# Ja_pan_gi
 
 Android Studio를 이용해서 자판기 프로그램을 만들어보았습니다.
 
